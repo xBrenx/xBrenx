@@ -1,4 +1,4 @@
-# Hola! 👋 Soy Brenda Panes 🌌
+# Hola! 👋 Soy Brenda 🌌
 
 ## ☄️ Sobre mi:
 - Soy Full Stack Developer 💻.
